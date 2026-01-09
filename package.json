@@ -41,7 +41,7 @@
     "sqlite3": "^5.0.2"
   },
   "devDependencies": {
-    "cypress": "^9.6.0",
+    "cypress": "^13.0.0",
     "foreman": "^3.0.1",
     "nock": "^13.2.9",
     "nodemon": "^2.0.4",
